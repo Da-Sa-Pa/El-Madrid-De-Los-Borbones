@@ -4,7 +4,7 @@ body{
    background-size: cover;
    background-repeat: no-repeat;
    position: relative;
-
+}
 .TopSecret{
     font-family: 'Courier New', monospace; /* Fuente de máquina de escribir */
   text-align: center; /* Texto centrado */
