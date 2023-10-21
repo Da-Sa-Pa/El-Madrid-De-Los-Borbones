@@ -4,3 +4,13 @@
    background-repeat: no-repeat;
    position: relative;
 }
+.TopSecret{
+    font-family: 'Courier New', monospace; /* Fuente de máquina de escribir */
+  text-align: center; /* Texto centrado */
+  color: red; /* Color del texto rojo */
+  display: inline-block; /* Esto es para que el círculo se ajuste al texto */
+  position: relative; /* Para posicionar el círculo relativo al texto */
+  padding: 10px; /* Espacio dentro del círculo */
+  border-radius: 50%; /* Hace que el borde sea redondeado para crear un círculo */
+  background-color: red; /* Color de fondo del círculo */
+}
