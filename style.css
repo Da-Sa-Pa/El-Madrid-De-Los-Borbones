@@ -15,3 +15,7 @@ body{
   border-radius: 50%; /* Hace que el borde sea redondeado para crear un círculo */
   background-color:none; /* Color de fondo del círculo */
 }
+
+.text{
+    text-align: center;
+}
