@@ -7,7 +7,7 @@ body{
 }
 .TopSecret{
     font-family: 'Courier New', monospace; /* Fuente de máquina de escribir */
-  text-align: center; /* Texto centrado */
+  text-align: center; !important /* Texto centrado */
   color: red; /* Color del texto rojo */
   display: inline-block; /* Esto es para que el círculo se ajuste al texto */
   position: relative; /* Para posicionar el círculo relativo al texto */
